@@ -145,18 +145,15 @@ button:hover{
     transition: 0.8s;
 }
 
-/* img{
-    display: flex;
-    align-items:;
-} */
 
 .social-medias {
     display: flex;
     gap: 20px;
+    margin-left: 100px;
 }
 
-.social-medias > img {
-    width: 10px;
+.social-medias > a, img {
+    width: 40px;
 }
 
 
