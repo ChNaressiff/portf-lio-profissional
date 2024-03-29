@@ -169,8 +169,7 @@ hr{
   display: flex;
     gap: 200px;
 } */
-
-section > img{
+div > img{
     margin-left: 800px;
     margin-top: 200px;
     /* width: 10%; */
@@ -180,6 +179,14 @@ section > img{
     width: 10%;
     height: 10%;
     border-radius: 50px;
-    border: 4px solid white;
-   
+    border: 4px solid white;   
+}
+
+.Nome{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #043b99;
 }
